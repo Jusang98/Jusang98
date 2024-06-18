@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangju Kim</h1>
-<h3 align="center">A passionate Backend developer from Korea</h3>
+<h3 align="center">Brick</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusang98&label=Profile%20views&color=0e75b6&style=flat" alt="jusang98" /> </p>
 
